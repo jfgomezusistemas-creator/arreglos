@@ -3,7 +3,7 @@
 from libreria import ver, eliminar, agregar, buscar, contar
 
 # Diccionario inicial
-datos = {"nombre": "Raul", "edad": 13, "correo": "raul@ejemplo.com"}
+datos = {"nombre": "juan", "edad": 15, "correo": "juan@ejemplo.com."}
 
 while True:
     print("\n1.Ver 2.Eliminar 3.Agregar 4.Buscar 5.Contar 6.Salir")
